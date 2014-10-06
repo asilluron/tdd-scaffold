@@ -1,0 +1,33 @@
+{
+  "name": "tdd-scaffold",
+  "version": "0.0.0",
+  "homepage": "https://github.com/asilluron/tdd-scaffold",
+  "authors": [
+    "Andrew Silluron",
+    "Cameron Knight",
+    "Jeromy Maligie"
+  ],
+  "description": "Barebones TDD scaffold example for Angular",
+  "main": "exports/app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Angular",
+    "TDD",
+    "Example",
+    "Scaffold",
+    "Book",
+    "Test",
+    "Driven",
+    "Development"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
