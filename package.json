@@ -1,0 +1,26 @@
+{
+  "name": "tdd-scaffold",
+  "version": "0.0.0",
+  "description": "Barebones TDD scaffold for Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://asilluron@github.com/asilluron/tdd-scaffold.git"
+  },
+  "keywords": [
+    "TDD",
+    "Angular",
+    "Karma",
+    "Book",
+    "Scaffold"
+  ],
+  "author": "Andrew Silluron, Cameron Knight, Jeromy Maligie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilluron/tdd-scaffold/issues"
+  },
+  "homepage": "https://github.com/asilluron/tdd-scaffold"
+}
